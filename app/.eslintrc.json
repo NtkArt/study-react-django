@@ -30,7 +30,19 @@
         "tsx": "never"
       }
     ],
-    "no-use-before-define": "off"
+    "no-use-before-define": "off",
+    "object-curly-newline": "off",
+    "arrow-parens": "off",
+    "max-len": "off",
+    "no-await-in-loop": "off",
+    "implicit-arrow-linebreak": "off",
+    "function-paren-newline": "off",
+    "prefer-spread": "warn",
+    "operator-linebreak": "off",
+    "indent": "off",
+    "camelcase": "off",
+    "@typescript-eslint/no-var-requires": "off",
+    "react/jsx-one-expression-per-line": "off"
   },
   "settings": {
     "import/resolver": {
